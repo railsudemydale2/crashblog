@@ -1,0 +1,15 @@
+Todo list
+-DONE: Install software on server✅
+-DONE: Create postgresql database✅
+-DONE: Install virtual env       ✅
+-DONE: Create group and user     ✅
+-DONE: Create environment        ✅
+-Get project fro Git
+-Install packages (and postgresql)
+-Install and set up gunicorn
+-Install and set up supervisor
+-Set up Nginx
+
+
+command to use in Ubunto virtual server
+ sudo useradd --system --grid webapps --shell /bin/bash --home /webapps/crashblog crashblog
